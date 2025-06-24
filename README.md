@@ -6,5 +6,7 @@ The back cover has a QR-code that when scanned, takes you to the movies' IMDB pa
 If you want to know more about how to use these designs on a Kodi-based system you can go over to the Zaparoo discord and learn about all sorts of cool NFC stuff! 
 
 https://zaparoo.org/
+
+
 https://discord.com/invite/jNdWq52rBP/
 
